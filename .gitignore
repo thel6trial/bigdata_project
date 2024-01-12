@@ -1,0 +1,4 @@
+.env
+__pycache__
+mongo_data
+.python-version
